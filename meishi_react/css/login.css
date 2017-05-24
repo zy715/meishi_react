@@ -1,0 +1,39 @@
+body,html,#out{
+	width:100%;
+	height:100%;
+	background:#fafafa;
+}
+#Ls_tc{
+	width:100%;
+	height:10.29rem;
+}
+.Lp_tc{
+	width:5.7rem;
+	height:0.7rem;
+	margin-left:0.36rem;
+	border:1px solid #999999;
+	border-radius: .05rem;
+	margin-top:0.32rem;
+}
+.Lp2_tc{
+	width:5.7rem;
+	height:0.7rem;
+	margin-left:0.36rem;
+	border:1px solid #999999;
+	border-radius: .05rem;
+	margin-top:0.16rem;
+	margin-bottom:0.5rem;
+}
+.Lp3_tc{
+	width:5.7rem;
+	height:0.7rem;
+	margin-left:0.36rem;
+	border-radius: .05rem;
+	background:#ff6767;
+	color:#fff;
+	border:none;
+	margin-bottom:0.4rem;
+}
+.La_tc{
+	margin-left:0.36rem;
+}

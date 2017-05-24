@@ -1,0 +1,212 @@
+
+
+/*List*/
+.LisZ_div{
+	width:2.95rem;height:3.4rem;float: left;padding:0.36rem 0 0 0.17rem;
+}
+.LisZ_div img{
+	width:2.95rem;height:2.95rem;float: left;
+}
+.LisZ_div h4{
+	font-size: 0.26rem;text-align: center;line-height: 0.5rem;
+}
+
+/*Detail*/
+
+
+.DetZ_img1{
+	width:100%;
+}
+.DetZ_div h4{
+	font-size: 0.36rem;text-align: center;line-height: 1rem;
+}
+.DetZ_div p{
+	font:0.23rem "微软雅黑";
+}
+.DetZ_div p img{
+	width:0.21rem;padding:0 0.1rem 0 0.17rem;
+}
+.DetZ_img2{
+	display: block;margin: 0 auto;width: 5.04rem;padding:0.16rem 0;
+}
+.DetZ_div2{
+	padding:0 0.68rem;
+}
+.DetZ_step{
+	font:0.25rem/0.4rem "微软雅黑";
+}
+.DetZ_shoucang{
+	width:0.69rem;height: 0.68rem;border-radius: 0.2rem;background: #fff;opacity: 0.7;text-align: center;position: fixed;right: 0.17rem;bottom:0.17rem;font-size: 0.17rem;color:#656565
+}
+.DetZ_shoucang img{
+	margin:0.06rem 0 0 0;width:0.3rem
+}
+
+
+/*Caidan*/
+.CaiZ_tab{
+	height: 0.66rem;background: #fff;width:100%;
+}
+.CaiZ_tab1,.CaiZ_tab2{
+	float:left;width:1rem;height: 0.66rem;color:#000;font-size:0.23rem;text-align: center;line-height: 0.66rem;margin:0 1.1rem
+}
+
+
+/*Tuijian*/
+.TuiZ_box{
+	background: #fafafa;
+}
+.TuiZ_div{
+	border-top:1px solid #e3e3e3;height: 1.88rem;padding: 0.17rem;
+}
+.TuiZ_img{
+	float:left;width:1.54rem;height: 1.54rem;padding-right:0.17rem
+}
+.TuiZ_div2{
+	float:left;width: 4.19rem;
+}
+.TuiZ_div2 h4{
+	font-size: 0.3rem;line-height: 0.6rem;
+}
+.TuiZ_div2 p{
+	color:#898989;font-size: 0.2rem;line-height: 0.3rem;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
+}
+
+.detail_head{position: fixed;top:0;height: 0.75rem; background: #ff6767; text-align: center; line-height: 0.75rem; font-size: 0.3rem; color:#fff;width: 100vw;}
+
+
+
+
+
+#headL_wrap,.headL_wrap{
+	width: 100%;
+	background: #ff6767;
+	height: 0.73rem;
+}
+
+#headL{
+	height:0.73rem;	
+	display: flex;
+	width:6.07rem;
+	margin: 0 auto;
+	padding-top: 0.20rem;
+	font-size: 0.30rem;
+	text-align: center;
+	color: #fff;
+}
+.headLeft,.headLeft img{
+	width:0.24rem;
+	height:0.35rem;
+}
+.headCenter{
+	flex: 1;
+	height: 0.35rem;
+}
+.headRight,.headRight img{
+	width:0.46rem;
+	height: 0.35rem;
+}
+
+#conL_wrap{
+	width:100%;
+	background: #fff;
+	flex: 1;
+	overflow: hidden;
+}
+
+.conLnav{
+	background: #fff;
+}
+.conLnav,.conList{
+	width:6.07rem;
+	margin:  0 auto;
+	
+}
+#conList_wrap{
+	background: #fafafa;
+}
+.conLnav ul{
+	overflow: hidden;
+}
+.conLnav ul li{
+	float: left;
+	width:25%;
+	height: 0.66rem;
+	text-align: center;
+	line-height: 0.66rem;
+	font-size: 0.22rem;
+}
+.con_hover{
+	border-bottom: 1px solid #ff6e6e;
+}
+.con_hover a{
+	color: #ffa0a0;
+}
+.conList dl{
+	height:1.48rem;
+	border-bottom: 1px solid #eaeaea;
+	font-size: 0.26rem;
+	padding-top:0.17rem;
+}
+
+.conList dl dd{
+	float: left;
+	width:4.53rem;
+}
+.conList dl dd p{
+	height: 0.54rem;
+	line-height: 0.54rem;
+}
+.conList dl dd span{
+	font-size: 0.12rem;
+	color:#f0f0f0 ;
+}
+.conList dl dt{
+	float: left;
+	width:1.52rem;	
+}
+.conList dl dt img{
+	width:100%;
+	height: 100%;
+}
+
+#ZhuanCon dl{
+	height: 5.6rem;
+}
+#ZhuanCon dl dt{
+	height:4.8rem;
+}
+#ZhuanCon dl dt img{
+	width:100%;
+	height:4.8rem;
+}
+#ZhuanCon dl dd{
+	height:0.8rem ;
+	font-size: 0.28rem;
+	text-align: center;
+	line-height: 0.8rem;
+	background: #fafafa;
+	
+}
+
+#Dt_dt{
+	height: 0.96rem;
+	background:#f1f1f1 ;
+}
+#Dt_dt li{
+	width:33.3%;
+	float: left;
+	padding-top: 0.15rem;
+	text-align: center;
+	color: #777777;
+	font-size: 0.18rem;
+}
+#Dt_dt li img{
+	height: 0.36rem;
+	width:0.32rem;
+	margin: 0 auto;
+	display: block;
+}
+.Dt_hover{
+	color: #f8afaf;
+}

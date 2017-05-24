@@ -1,0 +1,95 @@
+body,html,#out{
+	width:100%;
+	height:100%;
+	background:#fafafa;
+}
+#header_tc{
+	width:100%;
+	height:.75rem;
+	background:red;
+}
+.icf_tc{
+	font-size:.3rem;
+	text-align: center;
+	line-height: 0.75rem;
+	margin-left:.28rem;
+	float:left;
+	font-family: "iconfont";
+	display: inline-block;
+	color:#fff;
+}
+
+.rgt_tc{
+	font-size:.3rem;
+	text-align: center;
+	float:left;
+	line-height: 0.75rem;
+	display: inline-block;
+	margin-left:2.4rem;
+	color:#fff;
+}
+
+.ln_tc{
+	font-size:.3rem;
+	text-align: center;
+	line-height: 0.75rem;
+	float:right;
+	display: inline-block;
+	margin-right:.2rem;
+	color:#fff;
+}
+
+
+#content_tc{
+	width:100%;
+	height:10.29rem;
+}
+.p_tc{
+	width:100%;
+	height:0.62rem;
+	line-height:0.62rem;
+	margin-top:0.13rem;
+	text-indent: 0.36rem;
+	font-size:.25rem
+}
+.ipt1_tc{
+	width:5.7rem;
+	height:0.7rem;
+	margin-left:0.36rem;
+	border:1px solid #999999;
+	border-radius: .05rem;
+}
+.ipt2_tc{
+	width:5.7rem;
+	height:0.7rem;
+	margin-left:0.36rem;
+	border:1px solid #999999;
+	border-radius: .05rem;
+	margin-top:0.15rem;
+	margin-bottom:0.35rem
+}
+.ipt3_tc{
+	width:5.7rem;
+	height:0.7rem;
+	margin-left:0.36rem;
+	border-radius: .05rem;
+	background:#ff6767;
+	color:#fff;
+	border:none;
+	margin-bottom:0.25rem;
+}
+.cb_tc{
+	margin-left:0.36rem;
+}
+
+
+
+
+
+  @font-face {font-family: "iconfont";
+          src: url('../font/iconfont.eot'); /* IE9*/
+          src: url('../font/iconfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('../font/iconfont.woff') format('woff'), /* chrome, firefox */
+          url('../font/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+          url('../font/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+        }
